@@ -1,4 +1,5 @@
-# api_01_sms
-API 01 sms
+# SMS service
 
-A bot that sends an SMS notification when a certain VK user appears online.
+Uses the vk.com API and sends a text message if a friend gets online.
+
+Created with Twilio service
